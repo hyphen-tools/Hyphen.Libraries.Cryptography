@@ -9,9 +9,9 @@
     <license type="expression">MIT</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes></releaseNotes>
-    <description></description>
+    <description>Provides utility classes to handle symmetric and asymmetric encryption, hashing and encoding</description>
     <copyright>Copyright ©2021 Hyphen</copyright>
-    <tags></tags>
+    <tags>encrypt decrypt encoding decoding base64 aes rsa rijndael</tags>
     <language>en-US</language>
 	  <iconUrl>https://i.imgur.com/aztxXrN.png</iconUrl>
     <dependencies>
