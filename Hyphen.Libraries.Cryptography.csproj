@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Description></Description>
+	<NuspecFile>Hyphen.Libraries.ClaimsConverter.nuspec</NuspecFile>
+	<PackageIcon>icon.png</PackageIcon>
+	<AssemblyName>Hyphen.Libraries.Cryptography</AssemblyName>
+	<RootNamespace>Hyphen.Libraries.Cryptography</RootNamespace>
+	<RepositoryUrl>https://github.com/makehyphen/Hyphen.Libraries.ClaimsConverter</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="Hyphen.Libraries.Cryptography.nuspec">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
