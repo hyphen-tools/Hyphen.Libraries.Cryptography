@@ -28,7 +28,7 @@ jobs:
       with:
         dotnet-version: 5.0.x
         nuget-api-key: ${{ secrets.PACKAGES_TOKEN }}
-        nuget-version: '5.x'
+        nuget-version: '5.10.0-preview.2'
     - name: Build
       run: dotnet build -p:Version=${{ env.nuget_version }} --configuration Release
     - name: Test

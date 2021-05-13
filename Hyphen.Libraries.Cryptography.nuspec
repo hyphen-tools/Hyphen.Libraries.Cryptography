@@ -2,11 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Hyphen.Libraries.Cryptography</id>
+    <title>Hyphen.Libraries.Cryptography</title>
     <version>1.0.0</version>
     <authors>Hyphen</authors>
     <owners>makehyphen</owners>
     <repository type="git" url="https://github.com/makehyphen/Hyphen.Libraries.Cryptography" />
-    <license type="expression">MIT</license>
+    <license type="file">LICENSE.md</license>
+    <readme>README.md</readme>
+    <icon>icon.png</icon>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes></releaseNotes>
     <description>Provides utility classes to handle symmetric and asymmetric encryption, hashing and encoding</description>
@@ -14,8 +17,10 @@
     <tags>encrypt decrypt encoding decoding base64 aes rsa rijndael</tags>
     <language>en-US</language>
 	  <iconUrl>https://i.imgur.com/aztxXrN.png</iconUrl>
-    <dependencies>
-      
-    </dependencies>
   </metadata>
+  <files>
+    <file src="LICENSE.md" target="" />
+    <file src="icon.png" target="" />
+    <file src="README.md" target="" />
+  </files>
 </package>
