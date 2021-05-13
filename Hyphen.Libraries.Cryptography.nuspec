@@ -8,7 +8,6 @@
     <owners>makehyphen</owners>
     <repository type="git" url="https://github.com/makehyphen/Hyphen.Libraries.Cryptography" />
     <license type="file">LICENSE.md</license>
-    <readme>README.md</readme>
     <icon>icon.png</icon>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes></releaseNotes>
@@ -21,6 +20,5 @@
   <files>
     <file src="LICENSE.md" target="" />
     <file src="icon.png" target="" />
-    <file src="README.md" target="" />
   </files>
 </package>
