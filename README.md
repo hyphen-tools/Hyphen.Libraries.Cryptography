@@ -9,7 +9,7 @@
 <h3 align="middle">
    Hyphen.Libraries.Cryptography
 </h3>
-<p align="middle">Provides utility classes to handle symmetric and asymmetric encryption, hashing and encoding</p>
+<p align="middle">Provides utility classes to handle symmetric and asymmetric encryption, hashing and encoding.</p>
 
 
 <p align="middle">
